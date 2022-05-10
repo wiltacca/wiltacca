@@ -2,7 +2,7 @@
 
 - :pushpin: I am a Data Science and Machine Learning Enthusiast!
 
-- :mega: I am currently pursuing AI for Industry (AI4I) online at my own learning pace.
+- :mega: I am currently pursuing AI for Industry (AI4I) online programme at my own learning pace.
 
 - :triangular_flag_on_post: My more than 10-year career in accounting & finance is chronicled by consistent achievements cemented around these strengths:
 
