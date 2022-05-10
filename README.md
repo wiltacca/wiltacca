@@ -1,8 +1,10 @@
-- 👋 Hi, my name is William Tan.
+- :wave: Hi, my name is William Tan.
 
-- :pushpin: I am interested in Data Science and Machine Learning.
+- :pushpin: I am a Data Science and Machine Learning Enthusiast!
 
 - :mega: I am currently pursuing AI for Industry (AI4I) online at my own learning pace.
+
+- :triangular_flag_on_post: My more than 10-year career in accounting & finance is chronicled by consistent achievements cemented around these strengths:
 
 - :bell: As a business intelligence and insights expert, I possess the ability to mine, manipulate and analyse large quantities of data to improve decision-making. With a knack for articulating compelling business cases, I connect the dots and expertly look for trends, themes and the big picture.  
 
