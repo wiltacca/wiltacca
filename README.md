@@ -1,4 +1,4 @@
-- :wave: Hi, my name is William Tan.
+ :wave: Hi, my name is William Tan.
 
 - :pushpin: I am a Data Science and Machine Learning Enthusiast!
 
